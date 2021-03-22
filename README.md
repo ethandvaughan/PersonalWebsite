@@ -1,3 +1,3 @@
 # PersonalWebsite
-Personal Website /n
+Personal Website \n
 ethandvaughan.com
