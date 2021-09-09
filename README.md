@@ -1,3 +1,3 @@
 # PersonalWebsite
 Personal Website 
-ethandvaughan.com
+<https://ethandvaughan.com/>
