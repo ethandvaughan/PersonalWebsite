@@ -19,8 +19,21 @@ img {
   margin-right: auto;
 }
 
-.contact {
+a.noStyle {
+  all: unset;
+}
+
+a.noStyle:hover {
+  cursor: pointer;
+}
+
+.row {
   display: grid;
+}
+
+.titleCol {
+  grid-row: 1;
+  grid-column: 1 / span 6;
 }
 
 .col {
@@ -35,10 +48,12 @@ img {
   background: lightgray;
   margin-left: 25%;
   margin-right: 25%;
+  margin-top: 20px;
   border: 4px;
   border-radius: 8px;
   border-color: darkgray;
   border-style: double;
   padding: 3%;
+  padding-top: 1%;
 }
 
